@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Script that prints \“The Zen of Python\”, by TimPeters" && git push
+git add . && git commit -m "Function that prints to standard error" && git push
