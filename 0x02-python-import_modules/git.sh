@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Program that imports a function" && git push
+git add . && git commit -m "Imports functions from calculator_1.py" && git push
