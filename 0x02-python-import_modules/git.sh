@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Print the alphabet in uppercase" && git push
+git add . && git commit -m " Prints #pythoniscool in stdout, using write" && git push
