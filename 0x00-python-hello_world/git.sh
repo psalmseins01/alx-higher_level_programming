@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Function that prints to standard error" && git push
+git add . && git commit -m "Function that does exactly the same as python bytecode" && git push
