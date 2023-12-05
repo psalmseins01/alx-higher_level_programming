@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Function that adds 2 tuples." && git push
+git add . && git commit -m "Function that finds the biggest integer of a list" && git push
