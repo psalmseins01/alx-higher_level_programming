@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Function that retrieves an element from a list" && git push
+git add . && git commit -m "Function to replaces an element of a list at a position" && git push
