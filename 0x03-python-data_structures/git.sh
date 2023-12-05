@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Prints all integers of a list, in reverse order" && git push
+git add . && git commit -m "Function that replaces an element in a list" && git push
