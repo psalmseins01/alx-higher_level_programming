@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Function that returns a tuple with the len of a str & chr" && git push
+git add . && git commit -m "Function that deletes the item at a position in a list" && git push
