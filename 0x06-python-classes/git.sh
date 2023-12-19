@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-git add . && git commit -m "Readme file for 0x06. Python - Classes and Objects" && git push
+git add . && git commit -m "Write an empty class Square that defines a square" && git push
