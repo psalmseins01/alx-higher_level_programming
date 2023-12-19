@@ -1,2 +1,4 @@
 #!/usr/bin/bash
-git add . && git commit -m "Readme :0x05-Python - Exceptions Project" && git push 
+git add . && git commit -m "Write a function that prints x elements of a list.
+
+" && git push 
