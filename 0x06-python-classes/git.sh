@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-git add . && git commit -m "Class \"Square\" that defines a square by: (based on 2-square.py)" && git push
+git add . && git commit -m "Translating a bytecode with a class 'MagicClass'" && git push
