@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-git add . && git commit -m "Write an empty class Square that defines a square" && git push
+git add . && git commit -m "Class \"Square\" that defines a square by: (based on 0-square.py)" && git push
