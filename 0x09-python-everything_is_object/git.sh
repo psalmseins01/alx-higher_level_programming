@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Check if a and b points to thesame object" && git push
+git add . && git commit -m "if s1 == s2" && git push
