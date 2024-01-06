@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "if two lists with the same elements are equal" && git push
+git add . && git commit -m "What does l2 prints" && git push
