@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "if two tuples are thesame" && git push
+git add . && git commit -m "if two list are thesame" && git push
