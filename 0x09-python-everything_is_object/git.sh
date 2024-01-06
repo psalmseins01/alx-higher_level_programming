@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "List incrementation" && git push
+git add . && git commit -m "List assignment" && git push
