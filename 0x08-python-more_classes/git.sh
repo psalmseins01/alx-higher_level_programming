@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Readme for 0x08 Classes and Objects" && git push
+git add . && git commit -m "Write an empty class Rectangle that defines a rectangle" && git push
