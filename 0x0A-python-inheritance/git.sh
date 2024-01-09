@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Readme For 0x0A. Python - Inheritance Project"
+git add . && git commit -m "Write a function that returns the list of available attributes and methods of an object" && git push
