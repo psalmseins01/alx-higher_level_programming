@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-git add . && git commit -m "Readme: 0x0B. Python - Input/Output" && git push
+git add . && git commit -m "Write a function that writes a string to a text file (UTF8) and returns the number of characters written" && git push
