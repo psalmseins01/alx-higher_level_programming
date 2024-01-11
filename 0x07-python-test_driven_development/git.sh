@@ -1,2 +1,2 @@
 #!/usr/bn/bash
-git add . && git commit -m "Write unittests for the function def max_integer(list=[]):" && git push
+git add . && git commit -m "Function that prints a text with 2 new lines after each of these characters: ., ? and :" && git push
