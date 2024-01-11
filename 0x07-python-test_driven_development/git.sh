@@ -1,2 +1,2 @@
 #!/usr/bn/bash
-git add . && git commit -m "Function that prints a text with 2 new lines after each of these characters: ., ? and :" && git push
+git add . && git commit -m "Write a function that prints My name is <first name> <last name>" && git push
