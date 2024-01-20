@@ -504,7 +504,8 @@ class TestRectangle_stdout(unittest.TestCase):
 
     # Testing display method
     def test_display_width_height(self):
-        capture = TestRectangle_stdout.capture_stdout(Rectangle(2, 3, 0, 0, 0), "display")
+        rec = Rectangle(2, 3, 0, 0, 0)
+        capture = TestRectangle_stdout.capture_stdout(rec, "display")
         self.assertEqual("##\n##\n##\n", capture.getvalue())
 
     def test_display_width_height_x(self):
@@ -798,6 +799,7 @@ class TestRectangle_to_dictionary(unittest.TestCase):
         rec = Rectangle(11, 2, 4, 1, 2)
         with self.assertRaises(TypeError):
             rec.to_dictionary(1)
+
 
 if __name__ == "__main__":
     unittest.main()
