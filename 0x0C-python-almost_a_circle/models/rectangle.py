@@ -122,12 +122,12 @@ class Rectangle(Base):
            This function prints to stdout the Rectangle instance with '#'
         """
         rectangle = ""
-        symbol_to_print = "#"
+        print_symbol = "#"
 
         print("\n" * self.y, end="")
 
         for i in range(self.height):
-            rectangle += (" " * self.x) + (symbol_to_print*self.width) + "\n"
+            rectangle = rectangle + (" " * self.x) + (print_symbol * self.width) + "\n"
         print(rectangle, end="")
 
     def __str__(self):
