@@ -2,7 +2,7 @@
 
 // script to print strings using a loop
 
-let i;
+let i = 0;
 const printStr = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 
 while (i < 3){
