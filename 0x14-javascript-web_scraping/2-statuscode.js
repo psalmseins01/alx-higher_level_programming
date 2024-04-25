@@ -1,8 +1,8 @@
 #!/usr/bin/node
 const request = require('request');
-const server_addr = process.argv[2];
+const url = process.argv[2];
 
-request.get(server_addr, (error, response) => {
+request.get(url, (error, response) => {
   if (error) {
     console.log(error);
   } else {
